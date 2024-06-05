@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Ky 5\\PRN212\\DBContext\\ManageCategoriesApp\\ManageCategoriesApp.csproj": {}
+    "F:\\Ky 5\\PRN212\\DBContext\\PRN211_BTDB\\ManageCategoriesApp\\ManageCategoriesApp.csproj": {}
   },
   "projects": {
-    "F:\\Ky 5\\PRN212\\DBContext\\ManageCategoriesApp\\ManageCategoriesApp.csproj": {
+    "F:\\Ky 5\\PRN212\\DBContext\\PRN211_BTDB\\ManageCategoriesApp\\ManageCategoriesApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Ky 5\\PRN212\\DBContext\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
+        "projectUniqueName": "F:\\Ky 5\\PRN212\\DBContext\\PRN211_BTDB\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
         "projectName": "ManageCategoriesApp",
-        "projectPath": "F:\\Ky 5\\PRN212\\DBContext\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
+        "projectPath": "F:\\Ky 5\\PRN212\\DBContext\\PRN211_BTDB\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "F:\\Ky 5\\PRN212\\DBContext\\ManageCategoriesApp\\obj\\",
+        "outputPath": "F:\\Ky 5\\PRN212\\DBContext\\PRN211_BTDB\\ManageCategoriesApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

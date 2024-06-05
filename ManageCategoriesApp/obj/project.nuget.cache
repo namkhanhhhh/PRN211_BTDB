@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZBdz/7ZjzaI5WhPDGNW5hpKIFGsGrYmLAZHUaKlq8nqXmE/SYE/XczoTJPjVeqm/pC5QAKrH9K0yfeVQr54Hng==",
+  "dgSpecHash": "vO3z2ZdyefuwgdZBhHXgWO9j5nXboJPhfwvbe4Uisy8HKCMArHp4psCvA5d3Tr/wQQZ1T0OQL3DFpMsp8Gog5Q==",
   "success": true,
-  "projectFilePath": "F:\\Ky 5\\PRN212\\DBContext\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
+  "projectFilePath": "F:\\Ky 5\\PRN212\\DBContext\\PRN211_BTDB\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
